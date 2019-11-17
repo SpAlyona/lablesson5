@@ -1,0 +1,2 @@
+include ':SensorMan', ':Accelometer', ':Camera', ':AudioRecord'
+rootProject.name='My Application'
